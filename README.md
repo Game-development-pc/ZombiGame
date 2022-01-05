@@ -1,22 +1,22 @@
-# ZombiGame
-
+# Escape From Death
 ## First screen
 At the beginning of the game the user will see a page that has a background with a button (player) ,
-When you press PLAY the game starts.
-
-## second screen
-Going to a video that explains the story of the game and what happened before the game started,
-the video explains to the user what the purpose of the game is.
-The screen is containing as a LETS GO Button that if you click on it you go through a screen (the game), you can skip the video and start too.
+When you press PLAY the game starts , it also contains information about the explaining how to play.
 
 ## the game
-The game features an endless road with buildings and houses nearby (the world is similar to an interurban road). So as I described in the video we need to escape the zombies and stay alive so we will use the same , The user takes control of the vehicle and is the one who moves it through the arrows, he has to get around the zombies without being hit,
-### if the player passes the zombies successfully:
-winnig screen : 
-A screen contains a button (NEXT) to allow the user to go through a phase , Then the player moves on to the next stage which is more advanced and difficult than stage 1 (description not like stage 1, more zombies, fast zombies) so it is more challenging.
+### story 
+one day A virus has spread all over the world , Effect of the virus on humans: Turns humans into zombies!
+### game and player
+the player is still alive and all the time he was Trying to hide from the zomies and still alive , until the day he decided אם Get out of the hospital forever and fight the zombies. when he get out he's surprised from the shape of the world ! its ruined . 
+### starting the game 
+the player in the hospital and he decided to get out , the user(how control the player) must found the key to open Hospital Gate , there are doctor inside the hospital and he will help you go get out the hospital and found Cure for the virus.
+### Core process 
+aftter the player success to find the key and get out the hospital there are alot of zombies outside that wait him ! he has to kill them or escape with the doctor.
+he must found the lab ' becouse there are Cure for the virus. the doctor is remmber where is the lab , so the player and the doctor have to go to the lab.
+doctor mission: to remmber where is the lab in the new ruined world.
+player mission: to protect the doctor from the zombies and to found the lab.
+### how to win
+the player must found the lab and save the world.
 
-### If the player failed to overtake the zombies and hit someone he lost because the zombie ate him, so move on to:
-Restart screen : 
-Allowing us to return to play one more time ..
 
-The game includes music so that everything has a special sound, which raises the level of quality in the game.
+### The game includes music so that everything has a special sound, which raises the level of quality in the game.
